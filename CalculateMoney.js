@@ -15,4 +15,4 @@ function calculateMoney(totalTicketsSold) {
     return remainingMoney;
 }
 
-console.log(calculateMoney(10),'tk'); 
+console.log(calculateMoney(-130),'tk'); 
